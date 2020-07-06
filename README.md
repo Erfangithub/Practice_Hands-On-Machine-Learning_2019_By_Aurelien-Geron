@@ -1,6 +1,6 @@
 ## Practice_Hands-On-Machine-Learning_2019_By_Aurélien Géron
 
-- #### This repository contains my code practice of the chapters I've studied regarding the book entitled "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" (Released September 2019) by Aurélien Géron.
+- #### This repository contains my code practice of the chapters I've studied regarding the book entitled "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" (Released September 2019) by Aurélien Géron. The book has a total of 19 chapters (1-19).
 
 ## Installation
 - ### Chapters 2-9:
@@ -10,9 +10,8 @@
     - pandas
     - scikit-learn
     - scipy
-    - matplotlib
-    
-  #### These can be installed by running: pip install -r requirements_Chapters2-9.txt, in a terminal application. 
+    - matplotlib 
+  - #### These can be installed by running: pip install -r requirements_Chapters2-9.txt, in a terminal application. 
 - ### Chapters 10-16:
   - Google Colaboratory can be used to run the notebooks corresponding to these chapters.
 
