@@ -1,5 +1,5 @@
 numpy
 pandas
-scikit-learn==0.21.2
+scikit-learn==0.21.3
 scipy
 matplotlib
